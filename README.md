@@ -5,8 +5,8 @@
 Developed by The Asian Equation. Class of 2018, Cohort S
 
 ### Members:
-* Tram Bui (@tramhbui)
-* Nathan Obrique (@Nolomon37)
-* Caitlynn Rosales (@caitlynnrosales)
-* Wesley Soo-Hoo (@wsh32)
-* Angelina Truong (@awesomedolphin101)
+* [Tram Bui](http://github.com/tramhbui)
+* [Nathan Obrique](http://github.com/Nolomon37)
+* [Caitlynn Rosales](http://github.com/caitlynnrosales)
+* [Wesley Soo-Hoo](http://github.com/wsh32)
+* [Angelina Truong](http://github.com/awesomedolphin101)
