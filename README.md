@@ -2,7 +2,7 @@
 
 **This is the *FINAL* design challenge in Mr. Carpenter's IED class.**
 
-Developed by The Asian Equation. Class of 2018, Cohort S
+Developed by *The Asian Equation*. Class of 2018, Cohort S
 
 ### Members:
 * [Tram Bui](http://github.com/tramhbui)
