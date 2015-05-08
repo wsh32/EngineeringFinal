@@ -1,4 +1,4 @@
-# IEDDesignChallenge
+# PLTW IED Engineering: 10.1 Design Challenge
 
 **This is the *FINAL* design challenge in Mr. Carpenter's IED class.**
 
