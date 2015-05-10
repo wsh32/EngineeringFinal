@@ -1,11 +1,11 @@
 # Engineering Documentation
 ### Part Numbers:
-##### 09__00: Assemblies
+#### 09__00: Assemblies
 - 090000: Complete Assembly
 - 090100: Case Assembly
 - Add more later
 
-##### 0901__: Case
+#### 0901__: Case
 - 090100: Case Assembly
 - 090101: Side pieces
 	- -1: Sides
