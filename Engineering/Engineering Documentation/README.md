@@ -15,3 +15,6 @@
 - 000105: Wheel
 - 000106: Arduino Mount
 - 000107: Hex Axle
+	- -1: .75 thickness
+- 000108: L Bracket
+- 000109: Collar
