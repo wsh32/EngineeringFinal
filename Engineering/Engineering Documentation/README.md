@@ -1,20 +1,17 @@
 # Engineering Documentation
 ## Part Numbers:
-#### 09__00: Assemblies
-- 090000: Complete Assembly
-- 090100: Case Assembly
-- Add more later
+#### 00__00: Assemblies
+- 000000: Complete Assembly
+- 000100: Drive Base Assembly
+- 000200: Shooter Assembly
+- 000300: Mount Assembly
 
-#### 0901__: Case
-- 090100: Case Assembly
-- 090101: Side pieces
-	- -1: Sides
-	- -2: Front
-	- -3: Back
-- 090102: Corner Bracket
-- 090103: Base Plate
-
-###### McMaster Parts:
-- 93190A540: 1/4-20 Cap Screw, 3/4 in. Length
-- 93190A544: 1/4-20 Cap Screw, 1 1/4 in. Length
-- 93827A211: 1/4-20 Hex Nut
+#### 0001__: Drive Base
+- 000100: Assembly
+- 000101: Metal Tubes
+- 000102: Churro Tubes
+- 000103: Base Plate
+- 000104: Motor Mount
+- 000105: Wheel
+- 000106: Arduino Mount
+- 000107: Hex Axle
