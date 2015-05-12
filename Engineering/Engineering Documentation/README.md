@@ -17,3 +17,5 @@
 - 000107: Hex Axle
 	- -1: .75 thickness
 - 000108: Collar
+
+###### McMaster Parts:
