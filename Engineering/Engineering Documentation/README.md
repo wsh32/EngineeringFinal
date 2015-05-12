@@ -25,3 +25,4 @@
 	- 000112: Standoff
 	- 000113: Gear
 	- 000114: Sprocket
+	- 000115: Chain (http://www.mcmaster.com/#6261k171/=x57u74)
