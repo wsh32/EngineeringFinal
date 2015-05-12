@@ -16,7 +16,7 @@
 - 000106: Breadboard
 - 000107: Hex Axle
 	- -1: .75 thickness
-- 000108: Collar
+- 000108: Collar (http://www.mcmaster.com/#9946k11/=x57ck0)
 - 000109: DC/Gear Motor
 - 000110: Gearbox
 	- 000111: Side Plates
