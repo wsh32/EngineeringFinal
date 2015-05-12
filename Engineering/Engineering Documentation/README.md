@@ -13,7 +13,7 @@
 - 000103: Base Plate
 - 000104: Arduino Mount
 - 000105: Wheel
-- 000106: Breadboard Mount
+- 000106: Breadboard
 - 000107: Hex Axle
 	- -1: .75 thickness
 - 000108: Collar
