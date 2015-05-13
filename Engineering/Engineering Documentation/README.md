@@ -11,9 +11,9 @@
 - 000101: Metal Tubes
 - 000102: L Bracket
 - 000103: Base Plate
-- 000104: Arduino Mount
-- 000105: Wheel
-- 000106: Breadboard
+- 000104: Wheel
+- 000105: Screw
+- 000106: Nut
 - 000107: Hex Axle
 	- -1: .25 x .75
 	- -2: .125 x .5
