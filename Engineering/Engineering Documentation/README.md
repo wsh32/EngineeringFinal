@@ -17,12 +17,8 @@
 - 000107: Hex Axle
 	- -1: .25 x .75
 	- -2: .125 x .5
-- 000108: Collar (http://www.mcmaster.com/#9946k11/=x57ck0)
+- 000108: Collar
+	- -1: .25 Diameter (http://www.mcmaster.com/#9946k11/=x57ck0)
+	- -2: .125 Diameter 
 - 000109: DC/Gear Motor
-- 000110: Gearbox
-	- 000111: Side Plates
-		- -1: Outside
-		- -2: Inside
-	- 000112: Standofft5
-	- 000113: Gear
-	- 000114: DC Motor Mount
+- 000110: DC Motor Mount
