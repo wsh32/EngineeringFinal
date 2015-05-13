@@ -15,7 +15,8 @@
 - 000105: Wheel
 - 000106: Breadboard
 - 000107: Hex Axle
-	- -1: .75 thickness
+	- -1: .25 x .75
+	- -2: .125 x .5
 - 000108: Collar (http://www.mcmaster.com/#9946k11/=x57ck0)
 - 000109: DC/Gear Motor
 - 000110: Gearbox
@@ -24,5 +25,4 @@
 		- -2: Inside
 	- 000112: Standoff
 	- 000113: Gear
-	- 000114: Sprocket
-	- 000115: Chain (http://www.mcmaster.com/#6261k171/=x57u74)
+	- 000114: DC Motor Mount
