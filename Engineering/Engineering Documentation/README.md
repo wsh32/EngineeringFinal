@@ -24,3 +24,4 @@
 	- -2: .125 Diameter 
 - 000109: DC/Gear Motor
 - 000110: DC Motor Mount
+- 000111: Gear to Hex Axle
