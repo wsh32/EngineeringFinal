@@ -8,8 +8,8 @@
 #### 0001__: Drive Base
 - 000100: Assembly
 - 000101: Metal Tube
-	- -1: Front
-	- -2: Side
+	- -1: Side
+	- -2: Front
 - 000102: L Bracket
 - 000103: Base Plate
 - 000104: Wheel
