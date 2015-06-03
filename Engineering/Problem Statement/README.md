@@ -1,2 +1,0 @@
-# Problem Statement
-Many parents are looking for a toy that would kick start a child’s interest for robotics and engineering. The toy should enhance the child’s learning capabilities and allow his/her creativity to expand.
